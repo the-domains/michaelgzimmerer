@@ -1,0 +1,28 @@
+name: michaelgzimmerer
+favicon: null
+layout_spectrum: 0.31234689033590257
+typography_spectrum: 0.6219822405837476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.36297412565909326
+  lightness: 0.35461666248738766
+  saturation: 0.7949301041662693
+  rhythmicContrast: 0.5389666152186692
+purpose: []
